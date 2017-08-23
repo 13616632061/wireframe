@@ -27,6 +27,11 @@
                 android:textColor="#ffffff"
                 android:textSize="@dimen/text_size_18"
                 android:textStyle="bold" />
+            <Button
+                android:id="@+id/btn_panit"
+                android:text="折线图"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
         </RelativeLayout>
 
         <LinearLayout

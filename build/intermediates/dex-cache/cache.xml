@@ -3,12 +3,48 @@
 
     <item
         is-multidex="false"
+        jar="F:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="E:\wireframe\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_120c2e578b2981ec9da0fb94fc715dd792b1417d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="F:\android_sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
         <dex dex="E:\wireframe\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4c4dd927edc1d48da6ca98d6bcb94c2b2e55c832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\wireframe\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\wireframe\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\wireframe\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_1d6a982598553d1f9b3d9d1b04d4543974165a1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\wireframe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\wireframe\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_68df89d3791098f54f7afc4daf8124cce4c1a7e4.jar" />
     </item>
 
 </items>

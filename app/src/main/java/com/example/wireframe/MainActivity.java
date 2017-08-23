@@ -3,6 +3,7 @@ package com.example.wireframe;
 import java.util.ArrayList;
 import java.util.List;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -55,6 +56,11 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
 	@Override
 	public void onClick(View v) {
-
+		switch (v.getId()){
+			case R.id.btn_panit:
+				Intent intent=new Intent(MainActivity.this,PainterActivity.class);
+				startActivity(intent);
+				break;
+		}
 	}
 }
