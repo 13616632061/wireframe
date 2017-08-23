@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Aug 23 17:28:17 CST 2017
+2.base=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\wireframe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+7.base=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=E\:\\wireframe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=E\:\\wireframe\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon_point_blue.png
+0.set=ANDROID_RESOURCE
