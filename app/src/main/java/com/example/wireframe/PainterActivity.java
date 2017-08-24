@@ -24,8 +24,8 @@ public class PainterActivity extends Activity {
         ButterKnife.bind(this);
 
         data1=new ArrayList<Integer>();
-        for(int i=0;i<30;i++){
-          data1.add((int) (Math.random()*100));
+        for(int i=0;i<60;i++){
+          data1.add((int) (Math.random()*400));
         }
         layout1.addView(new Painter(PainterActivity.this,data1));
     }

@@ -183,7 +183,6 @@ public class HomeDiagram extends View {
 		float temp_y = 0;
 		float base = (getHeight() - tb * 3.0f)
 				/ (Collections.max(milliliter) - Collections.min(milliliter));
-		System.out.println("base="+base);
 		Shader mShader = new LinearGradient(0, 0, 0, getHeight(), new int[] {
 				Color.argb(100, 0, 255, 255), Color.argb(45, 0, 255, 255),
 				Color.argb(10, 0, 255, 255) }, null, Shader.TileMode.CLAMP);
